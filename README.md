@@ -1,5 +1,5 @@
 # Sharpness-Aware Minimization
-project for Modern Optimization Methods course 2022 @ HSE
+project for the Modern Optimization Methods course 2022 @ HSE
 
 ### CIFAR10
 
