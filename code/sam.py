@@ -2,9 +2,7 @@ import torch
 
 
 class SAM(torch.optim.Optimizer):
-    """
-    Taken from https://github.com/davda54/sam/blob/main/sam.py
-    """
+
     def __init__(self, params, base_optimizer, rho=0.05, **kwargs):
         assert rho >= 0.0
 
